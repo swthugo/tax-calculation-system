@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b030fc8f-fd39-4f0e-852c-fd32deeab868" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem/ExemptItemFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem/Orchestrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem/ReceiptPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem/TaxCalculationSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem/TaxCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem/TaxRuleExtractor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/exempt-items.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/product-categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/resources/tax-rates.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/hugosiu/taxCalculationSystem/ExemptItemFilterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/hugosiu/taxCalculationSystem/OrchestratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/hugosiu/taxCalculationSystem/ReceiptPrinterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/hugosiu/taxCalculationSystem/TaxCalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dev/hugosiu/taxCalculationSystem/TaxRuleExtractorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2mqBpRjKFiBdOjDjNisbTEdKYpb" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.ShoppingReceipt.executor": "Run",
+    "Application.TaxCalculationSystem.executor": "Run",
+    "JUnit.ExemptItemFilterTest.executor": "Run",
+    "JUnit.OrchestratorTest.executor": "Run",
+    "JUnit.ReceiptPrinterTest.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/hugosiu/Codes/Guidemy/projects/tax-calculation-system/src/test/java/dev/hugosiu/taxCalculationSystem"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/dev/hugosiu/taxCalculationSystem" />
+      <recent name="$PROJECT_DIR$/src/main/java/dev/hugosiu/taxCalculationSystem" />
+      <recent name="$PROJECT_DIR$/src/main/java/resources" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b030fc8f-fd39-4f0e-852c-fd32deeab868" name="Changes" comment="" />
+      <created>1727794408979</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727794408979</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tax_calculation_system$ExemptItemFilterTest.ic" NAME="ExemptItemFilterTest Coverage Results" MODIFIED="1727795158241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dev.hugosiu.taxCalculationSystem.*</FILTER>
+    </SUITE>
+  </component>
+</project>
